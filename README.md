@@ -1,4 +1,4 @@
-<h1 align ="center">Hi 👋, I'm Devesh Patel</h1>
+<h1>Hi 👋, I'm Devesh Patel</h1>
 
 Passionate Full-Stack Developer | AI & Web Enthusiast | Lifelong Learner | Based in India
 
